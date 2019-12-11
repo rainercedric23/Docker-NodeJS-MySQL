@@ -1,7 +1,8 @@
 # Docker-NodeJS-MySQL
 Docker created with the stack of nodejs and mysql
 
-## Sample Nodejs connection to MySQL server using mysql2 library
+### Sample Nodejs connection to MySQL server using mysql2 library
+
 ```
 import mysql from "mysql2";
 import config from "./config";
