@@ -22,8 +22,6 @@ const connection = mysql.createPool({
 export default connection;
 ```
 
-### Rename .env.example to .env and change path directory
+Rename .env.example to .env and change path directory `ENV_APP_DIR_HOST`
 
-```
-ENV_APP_DIR_HOST
-```
+And you're all set you are ready to run your nodejs application!
