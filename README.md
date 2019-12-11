@@ -21,3 +21,9 @@ const connection = mysql.createPool({
 
 export default connection;
 ```
+
+### Rename .env.example to .env and change path directory
+
+```
+ENV_APP_DIR_HOST
+```
